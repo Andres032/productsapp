@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "product-store-88b63": {
+      "hosting": {
+        "product-store": [
+          "product-store-88b63"
+        ]
+      }
+    }
+  }
+}
